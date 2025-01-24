@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 08b4a310779d1874d8f53132c6deda52
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/LoseWindow (Borders).unity
+    guid: 6590aea5cd016134baac956171d1bc95
+  - enabled: 1
+    path: Assets/Scenes/LoseWindow.unity
+    guid: 60be72559bc0df2479fbe1cc63124361
+  - enabled: 1
+    path: Assets/Scenes/SampleScene N2.unity
+    guid: 4719db01032e443468a3e3091531256d
+  - enabled: 1
+    path: Assets/Scenes/YouWin.unity
+    guid: f6f15413fec84ec47b1df7cbaeec351e
+  m_configObjects: {}
